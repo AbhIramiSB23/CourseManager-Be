@@ -1,0 +1,92 @@
+{
+  "courses": [
+    {
+      "courseName": "",
+      "trainerName": "manu",
+      "duration": "6",
+      "fee": "200",
+      "time": "",
+      "id": 42
+    },
+    {
+      "courseName": "",
+      "trainerName": "manu",
+      "duration": "6",
+      "fee": "200",
+      "time": "9 AM - 11 AM",
+      "id": 43
+    },
+    {
+      "courseName": "",
+      "trainerName": "",
+      "duration": "",
+      "fee": "",
+      "time": "",
+      "id": 44
+    },
+    {
+      "courseName": "",
+      "trainerName": "",
+      "duration": "",
+      "fee": "",
+      "time": "",
+      "id": 45
+    },
+    {
+      "courseName": "",
+      "trainerName": "wdfgh",
+      "duration": "",
+      "fee": "",
+      "time": "",
+      "id": 46
+    },
+    {
+      "courseName": "",
+      "trainerName": "wdfgh",
+      "duration": "4",
+      "fee": "",
+      "time": "",
+      "id": 47
+    },
+    {
+      "courseName": "",
+      "trainerName": "wdfgh",
+      "duration": "4",
+      "fee": "34567",
+      "time": "",
+      "id": 48
+    },
+    {
+      "courseName": "",
+      "trainerName": "wdfgh",
+      "duration": "4",
+      "fee": "34567",
+      "time": "11 AM - 1 PM",
+      "id": 49
+    },
+    {
+      "courseName": "mern",
+      "trainerName": "gfds",
+      "duration": "76",
+      "fee": "0987654",
+      "time": "9 AM - 11 AM",
+      "id": 50
+    },
+    {
+      "courseName": "mern",
+      "trainerName": "sarath",
+      "duration": "6",
+      "fee": "55000",
+      "time": "9 AM - 11 AM",
+      "id": 51
+    },
+    {
+      "courseName": "python",
+      "trainerName": "Varun",
+      "duration": "7 Months",
+      "fee": "35000",
+      "time": "9 AM - 11 AM",
+      "id": 52
+    }
+  ]
+}
